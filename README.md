@@ -11,4 +11,10 @@ In terminal--
        
        
     python app.py
+    
+    
+And For DataBase Use Wampp.
+
+   MySQL is used
+   
 
